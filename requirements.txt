@@ -1,0 +1,10 @@
+streamlit
+pdfplumber
+transformers
+torch
+spacy
+nltk
+scikit-learn
+pandas
+reportlab
+wordcloud
